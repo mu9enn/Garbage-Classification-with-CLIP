@@ -1,0 +1,1 @@
+Run generate_text_feature_npys.py, the prompts will be saved in this folder after being processed by the text encoder.
